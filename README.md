@@ -84,7 +84,7 @@ GPT Newspaper is an experimental project and provided "as-is" without any warran
 
 ## 📩 Contact Us
 
-For support or inquiries, please reach out to us:
+for support and inquiries,reach us out
 
 - [Email](mailto:rotem5707@gmail.com)
 
