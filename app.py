@@ -40,6 +40,6 @@ if __name__ == '__main__':
     frontend_process = Process(target=run_frontend)
     frontend_process.start()
 
-    # Join the processes so that the main process waits for them to complete
+    # Join the processes so that the main process waits to complete
     backend_process.join()
     frontend_process.join()
