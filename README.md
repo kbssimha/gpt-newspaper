@@ -73,19 +73,3 @@ https://github.com/assafelovic/gpt-newspaper/assets/91344214/7f265369-1293-4d95-
     ```
 6. Enjoy!
 
-## 🤝 Contributing
-
-Interested in contributing to GPT Newspaper? We welcome contributions of all kinds! Check out our [Contributor's Guide](CONTRIBUTING.md) to get started.
-
-
-## 🛡️ Disclaimer
-
-GPT Newspaper is an experimental project and provided "as-is" without any warranty. It's intended for personal use and not as a replacement for professional news outlets.
-
-## 📩 Contact Us
-
-for support and inquiries,reach us out
-
-- [Email](mailto:rotem5707@gmail.com)
-
-Join us in redefining the future of news consumption with GPT Newspaper!
