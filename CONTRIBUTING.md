@@ -3,7 +3,7 @@ First off, we'd like to welcome and thank you for your interest and effort in co
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
-## Reporting Issues
+## Reporting Issue
 
 If you come across any issue or have an idea for an improvement, don't hesitate to create an issue on GitHub. Describe your problem in sufficient detail, providing as much relevant information as possible. This way, we can reproduce the issue before attempting to fix it or respond appropriately.
 
