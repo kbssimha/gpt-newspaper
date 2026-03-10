@@ -2,4 +2,7 @@
 
 .env
 
-outputs/
+outputs/.venv/
+venv/
+_pycache_/
+.pyc
